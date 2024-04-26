@@ -1,10 +1,14 @@
 ---
 title: Home
 position: 0
-lead-in: Come for the s’mores, stay for the camp!
-heading: Camp Siteleaf
+heading: |-
+  Experience
+  Faster
+  Information
+  Consumption
+lead-in: Download ThrottlePlay now
 background_image: "/uploads/camp-bg.jpg"
 layout: index
 ---
 
-Welcome to camp, it’s almost here!
+Welcome to throttle-play, it’s almost here!
