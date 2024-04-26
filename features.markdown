@@ -1,7 +1,7 @@
 ---
 title: Features
 date: 2016-06-05 13:54:00 Z
-position: 2
+position: 1
 scoutmasters:
 - name: Speed Control
   image: "/uploads/fox.jpg"
